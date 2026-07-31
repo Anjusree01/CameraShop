@@ -17,7 +17,7 @@ const FeaturedProducts = ({
 
     useEffect(() => {
 
-        fetch("http://localhost:5000/Cameras")
+        fetch("https://camerashop-o9sj.onrender.com/products")
             .then((response) => response.json())
             .then((data) => {
                 setProducts(data);

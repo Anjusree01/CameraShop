@@ -1,0 +1,296 @@
+{
+  "users": [
+    {
+      "name": "Anjusree",
+      "email": "anjusreeavusali@gmail.com",
+      "password": "Anjusree@2004",
+      "id": "as1FTV8DHk0"
+    }
+  ],
+  "admins": [],
+  "Cameras": [
+    {
+      "id": "1",
+      "name": "Canon EOS R50",
+      "brand": "Canon",
+      "category": "Mirrorless",
+      "price": 79999,
+      "rating": 4.8,
+      "stock": 15,
+      "description": "24.2 MP Mirrorless Camera with 4K video recording and Dual Pixel autofocus.",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/b/g/s/-enriched-transparent-original-imahhy8yhhb4chb6.png?q=70"
+    },
+    {
+      "id": "2",
+      "name": "GoPro HERO",
+      "brand": "GoPro",
+      "category": "Action Camera",
+      "price": 34999,
+      "rating": 4.7,
+      "stock": 20,
+      "description": "Waterproof action camera with 5.3K video recording and image stabilization.",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/b/v/5/-enriched-transparent-original-imagrydmkxvjn2sh.png?q=70"
+    },
+    {
+      "id": "3",
+      "name": "6K Action Camera",
+      "brand": "SJCAM",
+      "category": "Action Camera",
+      "price": 14999,
+      "rating": 4.4,
+      "stock": 25,
+      "description": "6K WiFi action camera with dual display and electronic image stabilization.",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/7/d/h/6k-wifi-dual-display-25fps-eis-2-0-anti-shake-chipset-sensor-original-imahnwrgqbmmuvhf.jpeg?q=70"
+    },
+    {
+      "id": "4",
+      "name": "Canon EOS 1500D",
+      "brand": "Canon",
+      "category": "DSLR",
+      "price": 42999,
+      "rating": 4.6,
+      "stock": 18,
+      "description": "24.1 MP DSLR Camera with EF-S 18-55mm lens, ideal for beginners.",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/v/7/a/-original-imagt3hdjbhvuyb3.jpeg?q=70"
+    },
+    {
+      "id": "5",
+      "name": "GoPro HERO Compact",
+      "brand": "GoPro",
+      "category": "Action Camera",
+      "price": 31999,
+      "rating": 4.5,
+      "stock": 12,
+      "description": "Compact GoPro action camera with 4K recording and rugged design.",
+      "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/sports-action-camera/b/v/5/-enriched-transparent-original-imagrydmkxvjn2sh.png?q=90"
+    },
+    {
+      "id": "6",
+      "name": "Canon EOS 1500D Kit",
+      "brand": "Canon",
+      "category": "DSLR",
+      "price": 45999,
+      "rating": 4.7,
+      "stock": 10,
+      "description": "Canon DSLR camera with 18-55mm kit lens and Full HD video recording.",
+      "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/dslr-camera/v/7/a/-original-imagt3hdjbhvuyb3.jpeg?q=90"
+    },
+    {
+      "id": "7",
+      "name": "Canon EOS R8",
+      "brand": "Canon",
+      "category": "Mirrorless",
+      "price": 129999,
+      "rating": 4.9,
+      "stock": 8,
+      "description": "24.2 MP Full Frame Mirrorless Camera with advanced autofocus system.",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/x/x/b/eos-r8-24-2-eos-r8-body-canon-original-imagqey9pnnkgpzf.jpeg?q=70"
+    },
+    {
+      "id": "8",
+      "name": "Nikon DSLR",
+      "brand": "Nikon",
+      "category": "DSLR",
+      "price": 54999,
+      "rating": 4.7,
+      "stock": 14,
+      "description": "High-quality Nikon DSLR with excellent image quality and long battery life.",
+      "image": "https://rukminim2.flixcart.com/image/312/312/kw9krrk0/dslr-camera/c/z/n/-original-imag8z5wpw9fhqhf.jpeg?q=70"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "as1FTV8DHk0",
+      "customer": "Anjusree",
+      "items": [
+        {
+          "id": "1",
+          "name": "Canon EOS R50",
+          "brand": "Canon",
+          "category": "Mirrorless",
+          "price": 79999,
+          "rating": 4.8,
+          "stock": 15,
+          "description": "24.2 MP Mirrorless Camera with 4K video recording and Dual Pixel autofocus.",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/b/g/s/-enriched-transparent-original-imahhy8yhhb4chb6.png?q=70",
+          "quantity": 2
+        },
+        {
+          "id": "2",
+          "name": "GoPro HERO",
+          "brand": "GoPro",
+          "category": "Action Camera",
+          "price": 34999,
+          "rating": 4.7,
+          "stock": 20,
+          "description": "Waterproof action camera with 5.3K video recording and image stabilization.",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/b/v/5/-enriched-transparent-original-imagrydmkxvjn2sh.png?q=70",
+          "quantity": 1
+        }
+      ],
+      "total": 194997,
+      "address": {
+        "name": "Avusali Anjusree",
+        "phone": "8919177798",
+        "address": "hyderabad",
+        "city": "hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "status": "Placed",
+      "orderDate": "7/17/2026, 11:26:52 PM",
+      "id": "OvZR-uJUlXo"
+    },
+    {
+      "userId": "as1FTV8DHk0",
+      "customer": "Anjusree",
+      "items": [
+        {
+          "id": "2",
+          "name": "GoPro HERO",
+          "brand": "GoPro",
+          "category": "Action Camera",
+          "price": 34999,
+          "rating": 4.7,
+          "stock": 20,
+          "description": "Waterproof action camera with 5.3K video recording and image stabilization.",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/b/v/5/-enriched-transparent-original-imagrydmkxvjn2sh.png?q=70",
+          "quantity": 1
+        }
+      ],
+      "total": 34999,
+      "address": {
+        "name": "Avusali Anjusree",
+        "phone": "8919177798",
+        "address": "nkd",
+        "city": "hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "status": "Placed",
+      "orderDate": "7/20/2026, 11:05:49 PM",
+      "id": "3W1OScg3_Ac"
+    },
+    {
+      "userId": "as1FTV8DHk0",
+      "customer": "Anjusree",
+      "items": [
+        {
+          "id": "1",
+          "name": "Canon EOS R50",
+          "brand": "Canon",
+          "category": "Mirrorless",
+          "price": 79999,
+          "rating": 4.8,
+          "stock": 15,
+          "description": "24.2 MP Mirrorless Camera with 4K video recording and Dual Pixel autofocus.",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/b/g/s/-enriched-transparent-original-imahhy8yhhb4chb6.png?q=70",
+          "quantity": 1
+        }
+      ],
+      "total": 79999,
+      "address": {
+        "name": "Avusali Anjusree",
+        "phone": "8919177798",
+        "address": "hyderabad",
+        "city": "hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "status": "Placed",
+      "orderDate": "7/21/2026, 8:26:26 AM",
+      "id": "uxCTOa4-5E8"
+    },
+    {
+      "userId": "as1FTV8DHk0",
+      "customer": "Anjusree",
+      "items": [
+        {
+          "id": "2",
+          "name": "GoPro HERO",
+          "brand": "GoPro",
+          "category": "Action Camera",
+          "price": 34999,
+          "rating": 4.7,
+          "stock": 20,
+          "description": "Waterproof action camera with 5.3K video recording and image stabilization.",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/b/v/5/-enriched-transparent-original-imagrydmkxvjn2sh.png?q=70",
+          "quantity": 1
+        }
+      ],
+      "total": 34999,
+      "address": {
+        "name": "Avusali Anjusree",
+        "phone": "8919177798",
+        "address": "hyderabad",
+        "city": "hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "status": "Placed",
+      "orderDate": "7/21/2026, 8:45:01 AM",
+      "id": "ocMxSOmjbgg"
+    },
+    {
+      "userId": "as1FTV8DHk0",
+      "customer": "Anjusree",
+      "items": [
+        {
+          "id": "1",
+          "name": "Canon EOS R50",
+          "brand": "Canon",
+          "category": "Mirrorless",
+          "price": 79999,
+          "rating": 4.8,
+          "stock": 15,
+          "description": "24.2 MP Mirrorless Camera with 4K video recording and Dual Pixel autofocus.",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/b/g/s/-enriched-transparent-original-imahhy8yhhb4chb6.png?q=70",
+          "quantity": 1
+        }
+      ],
+      "total": 79999,
+      "address": {
+        "name": "Avusali Anjusree",
+        "phone": "8919177798",
+        "address": "hyderabad",
+        "city": "hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "status": "Placed",
+      "orderDate": "7/21/2026, 10:45:49 AM",
+      "id": "nBrWskV0LyU"
+    },
+    {
+      "userId": "as1FTV8DHk0",
+      "customer": "Anjusree",
+      "items": [
+        {
+          "id": "1",
+          "name": "Canon EOS R50",
+          "brand": "Canon",
+          "category": "Mirrorless",
+          "price": 79999,
+          "rating": 4.8,
+          "stock": 15,
+          "description": "24.2 MP Mirrorless Camera with 4K video recording and Dual Pixel autofocus.",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/b/g/s/-enriched-transparent-original-imahhy8yhhb4chb6.png?q=70",
+          "quantity": 2
+        }
+      ],
+      "total": 159998,
+      "address": {
+        "name": "Avusali Anjusree",
+        "phone": "8919177798",
+        "address": "uji",
+        "city": "hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "status": "Placed",
+      "orderDate": "7/25/2026, 9:03:45 PM",
+      "id": "lYm5_h_2t70"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

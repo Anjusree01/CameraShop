@@ -50,7 +50,7 @@ const Register = () => {
         try {
 
             const response = await fetch(
-                `http://localhost:5001/users?email=${email}`
+                `https://camerashop-o9sj.onrender.com/users?email=${email}`
             );
 
             const users = await response.json();

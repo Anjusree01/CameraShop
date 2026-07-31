@@ -16,7 +16,7 @@ const Login = () => {
         try {
 
             const response = await fetch(
-                `http://localhost:5001/users?email=${email}&password=${password}`
+                `https://camerashop-o9sj.onrender.com/users?email=${email}&password=${password}`
             );
 
             const user = await response.json();

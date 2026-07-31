@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { addToCart } from "../redux/cartSlice";
 import { addToWishlist } from "../redux/wishlistSlice";
+import { removeFromWishlist } from "../redux/wishlistSlice";
 import { useSelector, useDispatch } from "react-redux";
 import "../styles/featuredProducts.css";
 
